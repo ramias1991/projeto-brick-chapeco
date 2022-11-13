@@ -1,0 +1,7 @@
+select{
+	background-image:none!important;
+	padding-right:0px!important;
+}
+.search-page-form select, .contact-form select{
+background-image:none!important;
+ }
